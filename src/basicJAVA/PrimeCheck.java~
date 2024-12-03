@@ -1,0 +1,8 @@
+package basicJAVA;
+
+public class PrimeCheck {
+    public static void main(String[] args) {
+
+        int num = 11
+    }
+}
